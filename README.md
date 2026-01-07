@@ -1,6 +1,8 @@
 
 ## DSPy-TextBO: DSPy w/ GEPA that has bon and itr
 
+This is DSPy, but with GEPA, which implements multiple-step best-of-N textual gradients (=evolution), called TextBO-GEPA in the paper https://arxiv.org/abs/2511.12063.
+
 **Documentation:** [DSPy Docs](https://dspy.ai/)
 
 [![PyPI Downloads](https://static.pepy.tech/personalized-badge/dspy?period=monthly)](https://pepy.tech/projects/dspy)

@@ -3,7 +3,7 @@
 
 This is DSPy, but with GEPA that has multiple-step best-of-N textual gradients (=evolution), called TextBO-GEPA in the paper https://arxiv.org/abs/2511.12063.
 
-Here, GEPA has two additional arguments: bon (the number of variants considered at each step of evolution) and itr (the number of steps of evolution).
+Here, GEPA has two additional arguments: **bon** (the number of variants considered at each step of evolution) and **itr** (the number of steps of evolution).
 
 **Documentation:** [DSPy Docs](https://dspy.ai/)
 

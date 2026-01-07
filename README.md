@@ -1,10 +1,5 @@
-<p align="center">
-  <img align="center" src="docs/docs/static/img/dspy_logo.png" width="460px" />
-</p>
-<p align="left">
 
-
-## DSPy: _Programming_—not prompting—Foundation Models
+## DSPy-TextBO: DSPy w/ GEPA that has bon and itr
 
 **Documentation:** [DSPy Docs](https://dspy.ai/)
 

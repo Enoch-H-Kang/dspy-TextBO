@@ -1,7 +1,8 @@
 
 ## DSPy-TextBO: DSPy w/ GEPA that has bon and itr
 
-This is DSPy, but with GEPA that has multiple-step best-of-N textual gradients (=evolution), called TextBO-GEPA in the paper https://arxiv.org/abs/2511.12063. For the GEPA experiment suite, see https://github.com/Enoch-H-Kang/GEPA_suite/blob/main/README.md
+This is DSPy, but with GEPA that has multiple-step best-of-N textual gradients (=evolution), called TextBO-GEPA in the paper https://arxiv.org/abs/2511.12063. 
+- For the GEPA experiment suite, see https://github.com/Enoch-H-Kang/GEPA_suite/blob/main/README.md
 
 Here, GEPA has two additional arguments: **bon** (the number of variants considered at each step of evolution) and **itr** (the number of steps of evolution).
 
